@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2025-04-29T15:13:59.586">
+<file name="/Users/mhakobyan/IdeaProjects/Blockchain with Java copy/Blockchain with Java/task/src/main/java/blockchain/Main.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="UnnecessaryImport" ruleset="Code Style" package="blockchain" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.ArrayList'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="22" rule="UnnecessaryImport" ruleset="Code Style" package="blockchain" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.List'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="30" rule="UnnecessaryImport" ruleset="Code Style" package="blockchain" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.concurrent.*'
+</violation>
+</file>
+<file name="/Users/mhakobyan/IdeaProjects/Blockchain with Java copy/Blockchain with Java/task/src/main/java/blockchain/TransactionGenerator.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="UnnecessaryImport" ruleset="Code Style" package="blockchain" class="TransactionGenerator" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.ArrayList'
+</violation>
+</file>
+</pmd>

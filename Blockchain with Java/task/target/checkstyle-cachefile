@@ -1,0 +1,4 @@
+#Tue Apr 29 15:14:00 GMT+04:00 2025
+configuration*?=1BF021FB147D23CE24FDE1FE56AF223558FE0214
+module-resource*?\:checkstyle-suppressions.xml=E9879E11F0A084D0966E8C6C866A59AEEEA787BD
+module-resource*?\:checkstyle-xpath-suppressions.xml=7E96A680C0D5FA5B68E2EE5470181711E7DC0102
