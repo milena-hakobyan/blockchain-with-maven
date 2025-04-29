@@ -1,9 +1,0 @@
-blockchain/Block.class
-blockchain/MessageGenerator.class
-blockchain/Client.class
-blockchain/Main.class
-blockchain/Message.class
-blockchain/Blockchain.class
-blockchain/BlockchainSimulation.class
-blockchain/StringUtil.class
-blockchain/TransactionGenerator.class
